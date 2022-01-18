@@ -452,7 +452,7 @@ body {
     left: 508px;
     top: 280px;
     display: block;
-    z-index: 999;
+    z-index: 99;
     animation: boomboompow 2.5s infinite;
 }
 
